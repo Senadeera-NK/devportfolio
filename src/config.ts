@@ -1,13 +1,13 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "S.A. Nanduni Kaveesha Senadeera",
+  title: "Software Engineer | AI/ML | Frontend/Backend",
+  description: "Portfolio website of S.A. Nanduni Kaveesha Senadeera",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "naksathaudage2000@gmail.com",
+    linkedin: "https://www.linkedin.com/in/s-a-nanduni-kaveesha-senadeera/",
+    medium: "https://medium.com/@naksathaudage2000",
+    github: "https://github.com/Senadeera-NK",
   },
   aboutMe:
     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
